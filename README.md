@@ -7,7 +7,7 @@ TODO: separate them by categories
 
 List of applications
 
-* [iTerm](https://www.iterm2.com/) with Bash (can't get used to zsh)
+* [iTerm](https://www.iterm2.com/) with Bash (can't get used to [zsh](http://www.zsh.org/))
 * [Alfred](https://www.alfredapp.com/)
 * [Appcleaner](https://freemacsoft.net/appcleaner/)
 * [Atom](https://atom.io/) / [Sublime Text 3](http://www.sublimetext.com/) / [Visual Studio Code](https://code.visualstudio.com/)
