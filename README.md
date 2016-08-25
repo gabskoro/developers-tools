@@ -1,0 +1,51 @@
+Developers tools
+===
+
+**Tools that I use on my Mac**
+
+TODO: separate them by categories
+
+List of applications
+
+* [iTerm](https://www.iterm2.com/) with Bash (can't get used to zsh)
+* [Alfred](https://www.alfredapp.com/)
+* [Appcleaner](https://freemacsoft.net/appcleaner/)
+* [Atom](https://atom.io/) / [Sublime Text 3](http://www.sublimetext.com/) / [Visual Studio Code](https://code.visualstudio.com/)
+* [Charles](https://www.charlesproxy.com/)
+* [Cyberduck](https://cyberduck.io/)
+* [Enpass](https://www.enpass.io/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Chrome](https://www.google.com/chrome/)
+* [Opera](http://www.opera.com/)
+* [Flux](https://justgetflux.com/)
+* [Flycut](https://github.com/TermiT/Flycut)
+* [Gimp](https://www.gimp.org/)
+* [Google drive](https://www.google.com/drive/)
+* [Grammarly](https://app.grammarly.com/)
+* [Handbrake](https://handbrake.fr/)
+* [Imageoptim](https://imageoptim.com/mac)
+* [Kiwi for gmail](http://www.kiwiforgmail.com/)
+* [MacDown](http://macdown.uranusjr.com/)
+* [Paw](https://paw.cloud/)
+* [Monosnap](https://monosnap.com/welcome)
+* [Postico](https://eggerapps.at/postico/)
+* [Sequel Pro](http://www.sequelpro.com/)
+* [Sketch App](https://www.sketchapp.com/)
+* [Skype](https://www.skype.com/en/)
+* [Hangouts](https://hangouts.google.com/)
+* [Android Studio](https://developer.android.com/studio/index.html)
+* [Genymotion](https://www.genymotion.com/)
+* [SourceTree](https://www.sourcetreeapp.com/)
+* [Slack](https://slack.com/)
+* [Spectacle App](https://www.spectacleapp.com/)
+* [SVGCleaner](https://github.com/RazrFalcon/SVGCleaner)
+* [VirtualBox](https://www.virtualbox.org/)
+* [Zeplin](https://zeplin.io/)
+* [ApplePi Baker](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/)
+* [DB Browser for SQLite](http://sqlitebrowser.org/)
+* [Homebrew](http://brew.sh/)
+* [rbenv](https://github.com/rbenv/rbenv)
+* [pgLoader](http://pgloader.io/)
+* [Pow](http://pow.cx/)
+* [Node.js](https://nodejs.org/en/)
+* [My Bash aliases](https://github.com/gabskoro/.setup)
