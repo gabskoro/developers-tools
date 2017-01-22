@@ -49,6 +49,7 @@ List of applications
 * [Pow](http://pow.cx/)
 * [Node.js](https://nodejs.org/en/)
 * [My Bash aliases](https://github.com/gabskoro/.setup)
+* [Docker](https://www.docker.com)
 
 #### Chrome extensions
 
